@@ -1,6 +1,6 @@
 Di sini saya akan membuat resolusi pembelajaran database mysql dan lain lain
 
-Berikut adalah **urutan langkah-langkah pembelajaran untuk menguasai pengelolaan database dalam MySQL dalam waktu kurang dari 3 bulan**. Setiap minggu memiliki target yang terstruktur untuk memastikan kamu bisa menguasai MySQL dari **dasar hingga mahir**, termasuk praktik langsung.
+Berikut adalah **urutan langkah-langkah pembelajaran untuk menguasai pengelolaan database dalam MySQL dalam waktu kurang dari 3 bulan**. Setiap minggu memiliki target yang terstruktur untuk memastikan saya bisa menguasai MySQL dari **dasar hingga mahir**, termasuk praktik langsung.
 
 ---
 
